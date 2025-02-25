@@ -19,6 +19,7 @@ DynamoDB -> DynamoDB Stream -> Lambda -> Kinesis Firehose -> S3 (Iceberg Format)
 - Node.js and TypeScript
 - AWS account and credentials configured
 - Python 3.11 (for Lambda functions)
+- Source DynamoDB table with Stream Events enabled
 
 ## Infrastructure Components
 ### Storage
