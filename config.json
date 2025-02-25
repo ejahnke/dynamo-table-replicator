@@ -1,0 +1,6 @@
+{
+    "tableName": "SOURCE_DYNAMO_DB_TABLE",
+    "tableStreamArn": "DYNAMO_DB_STREAM_ARN",
+    "glueDatabaseName": "GLUE_DATABASE_NAME",
+    "glueTableName": "GLUE_TABLE_NAME"
+}
