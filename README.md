@@ -1,6 +1,6 @@
 # DynamoDB Table Replicator
 
-This AWS CDK application creates a data pipeline that replicates DynamoDB table data to Apache Iceberg format in S3, enabling efficient analytics and querying capabilities.
+This AWS CDK application creates a data pipeline that replicates DynamoDB table populated with Amazon Pinpoint SMS delivery events deployed via [this](https://aws.amazon.com/blogs/messaging-and-targeting/message-delivery-status-tracking-with-amazon-pinpoint/) blog post and sends to Apache Iceberg format in S3, enabling efficient analytics and querying capabilities.
 
 ## Architecture
 
